@@ -89,6 +89,17 @@ CyberWatch_Report.txt
 - Dashboard with charts
 
 ---
+## 📸 Screenshots
+
+### Overview
+
+![Overview](screenshots/overview.png)
+
+---
+
+### Summary
+
+![Summary](screenshots/summary.png)
 
 ## 👨‍💻 Author
 
